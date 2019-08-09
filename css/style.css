@@ -1,0 +1,13 @@
+#questioncolor{
+    background-color: aqua;
+    color: white;
+    border: 1px double;
+}
+.greenstyle {
+    color: green;
+    font-style: italic;
+}
+.redstyle{
+    color:red;
+    font-style:oblique;
+}
